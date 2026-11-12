@@ -1,6 +1,7 @@
 # Summary
 
 - [Welcome](./welcome.md)
+  - [Game Modes](./guides/gamemodes.md)
 - [Rules](./rules.md)
   - [Appeals](./appeals.md)
 - [Guides](./guides/guides.md)
